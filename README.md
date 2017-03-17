@@ -10,3 +10,7 @@ Selenium test for Apache ManifoldCF UI
     System.setProperty("webdriver.chrome.driver", "/home/kishore/chrome-driver/chromedriver");
     ```
 4. Run `NavigationHSQLDBUI.java`
+
+___
+
+> Tested on **ubuntu 16.04 LTS (64-bit)**
