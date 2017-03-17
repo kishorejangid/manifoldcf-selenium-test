@@ -13,4 +13,4 @@ Selenium test for Apache ManifoldCF UI
 
 ___
 
-> Tested on **ubuntu 16.04 LTS (64-bit)**
+> Tested on **ubuntu 16.04 LTS (64-bit)** using _IntelliJ IDEA 2016.3.5_
