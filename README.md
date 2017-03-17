@@ -1,4 +1,4 @@
-# Manifoldcf Selenium Test for UI
+# ManifoldCF Selenium Test for UI
 Selenium test for Apache ManifoldCF UI
 
 ### Steps to run this test
